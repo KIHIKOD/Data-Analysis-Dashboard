@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating an interactive dashboard and tables to analyze the data. This process involved several data stages, including data processing, data cleaning, and data visualization.
+# Coffee Orders Data Analysis Project
+# # Project Objective
+This project aims to analyze coffee sales data to understand customer purchasing behavior, sales performance, and profitability across coffee, roast, and countries. The analysis provides insights into the top-selling products, key customer demographics, and revenue trends.
+
