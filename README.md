@@ -29,3 +29,6 @@ This project aims to analyze coffee sales data to understand customer purchasing
 
 ## Dashboard
 
+![Screenshot 2025-02-17 035612](https://github.com/user-attachments/assets/afe040b2-b08b-4830-9290-74854955dfe9)
+
+
