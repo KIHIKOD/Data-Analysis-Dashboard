@@ -32,11 +32,11 @@ This project aims to analyze coffee sales data to understand customer purchasing
 ![Screenshot 2025-02-17 035612](https://github.com/user-attachments/assets/afe040b2-b08b-4830-9290-74854955dfe9)
 
 ## Project Insights 
-•	Arabica (Light Roast) and Excelsa (Medium Roast) are the most popular coffee types.
-•	United States & Ireland drive a significant portion of total revenue.
-•	Top 5 customers contribute a large share of overall sales.
-•	Loyalty cardholders tend to spend more per order compared to non-cardholders.
-•	Profit margins vary across coffee types, with some high-revenue products yielding lower profits.
+-	Arabica (Light Roast) and Excelsa (Medium Roast) are the most popular coffee types.
+-	The United States & Ireland drive a significant portion of total revenue.
+-	Top 5 customers contribute a large share of overall sales.
+-	Loyalty cardholders tend to spend more per order compared to non-cardholders.
+-	Profit margins vary across coffee types, with some high-revenue products yielding lower profits.
 
 ## Final Conclusion
 The findings suggest focusing on high-margin products and enhancing loyalty programs to drive repeat sales. Additionally, understanding country-specific preferences can aid in targeted marketing efforts.
